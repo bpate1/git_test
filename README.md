@@ -1,2 +1,2 @@
 # git_test
-odin project-git basics
+odin project: git basics
